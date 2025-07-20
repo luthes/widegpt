@@ -1,5 +1,8 @@
 # WideGPT for Firefox
 
+## Note on Fork
+> Maintaining this until the original maintainer fixes his code.
+
 WideGPT is a Firefox add-on designed to enhance your browsing experience on GPT interfaces by widening the answer space, providing a more comfortable and visually appealing layout for reading responses.
 
 ## [-> Download on addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/wide-gpt/)
